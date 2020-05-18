@@ -4,7 +4,7 @@ $(`<div class="rainbow"><img src="" class="fl" style="width:100%;margin-top: 1px
 <a href="#" style="border-radius: 15px 0px;width:110px;margin:3px;" class="fl mini  fa fa-heartbeat btn btn-default">⠀التطبيـق⠀</a>  
 `).insertBefore('.nav-tabs');
 $(`<link rel="stylesheet" type="text/css" href="">
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/nshamahost/nshama-host/master/alhaded.css">
 <style>
 .fitimg.fl.u-pic  {box-shadow: 0 1px 1px -1px  rgb(0, 95, 105), 0 0 6px rgb(0, 95, 105);border-radius: 4px 4px 4px 4px;;}
 textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #005F69;margin-top: 2px;}
